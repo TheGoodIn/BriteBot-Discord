@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Coda-Regular
+font link: https://fonts.google.com/specimen/Coda
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+
+
+icon designer: Nathan Driskell
+icon designer link: /driskell
+        
+{"bg":"transparent","icon-gradient-0":"#3E6E81","icon-gradient-1":"#4587A1","font":"#000000","slogan":"#141414"}
+      

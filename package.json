@@ -1,0 +1,35 @@
+{
+  "name": "giveaways-bot",
+  "version": "1.0.0",
+  "description": "Giveways Bot using the discord-giveaways package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/giveaways-bot.git"
+  },
+  "keywords": [
+    "giveaways",
+    "bot",
+    "discord-giveaways",
+    "example"
+  ],
+  "author": "Androz2091",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Androz2091/giveaways-bot/issues"
+  },
+  "homepage": "https://github.com/Androz2091/giveaways-bot#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "discord-giveaways": "^5.0.0",
+    "discord-sync-commands": "^0.2.0",
+    "discord.js": "^13.1.0",
+    "firebase-admin": "^10.0.2",
+    "ms": "^2.1.2",
+    "request": "^2.88.2",
+    "web3": "^1.7.1"
+  }
+}
